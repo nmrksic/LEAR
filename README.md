@@ -1,4 +1,4 @@
-# lear
+# LEAR: Lexical Entailment Attract-Repel
 Specialising Word Vectors for Lexical Entailment (Vulić and Mrkšić, 2017).
 
 Contact: Nikola Mrkšić (nikola.mrksic@gmail.com)
