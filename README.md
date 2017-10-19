@@ -3,7 +3,7 @@ Specialising Word Vectors for Lexical Entailment (Vulić and Mrkšić, 2017).
 
 Contact: Nikola Mrkšić (nikola.mrksic@gmail.com)
 
-This repository contains the code and data for the Lexical Entailment Attract-Repel (LEAR) method presented in [Specialising Word Vectors for Lexical Entailment](LINK-to-paper). The word vectors which achieve the state of the art on the HyperLex dataset can be downloaded [here](LINK-to-GOOGLE-Drive).
+This repository contains the code and data for the Lexical Entailment Attract-Repel (LEAR) method presented in [Specialising Word Vectors for Lexical Entailment](https://arxiv.org/abs/1710.06371). The word vectors which achieve the state of the art on the HyperLex dataset can be downloaded [here](LINK-to-GOOGLE-Drive).
 
 
 ### Configuring the Tool
@@ -34,7 +34,8 @@ The paper which introduces the LEAR procedure:
   author    = {Ivan Vuli\'{c} and Nikola Mrk\v{s}i\'c},
   title     = {Specialising Word Vectors for Lexical Entailment},
   journal   = {CoRR},
-  year      = 2017
+  year      = 2017,
+  volume = {abs/1710.06371}
  }
 ```
 
